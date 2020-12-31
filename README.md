@@ -1,0 +1,2 @@
+# Sudoku Solver w/ Backtracking Algorithm
+A fun little project I completed by following [this tutorial](https://youtu.be/eqUwSA0xI-s). The goal was to improve my Python skills and introduce myself to backtracking.
